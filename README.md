@@ -5,4 +5,5 @@ We would be using this model for extracting faces from the people entering for a
 I provide both- training in the normal way and the half precision. </br>
 train_half_precision.py and Trainer.py</br>
 Half precision training requires you to install another depedency Apex from Nvidia - </br>
-The link - [Nvidia Apex](https://github.com/NVIDIA/apex)
+The link - [Nvidia Apex](https://github.com/NVIDIA/apex) </br>
+Download the dataset from [here](https://drive.google.com/file/d/11UGV3nbVv1x9IC--_tK3Uxf7hA6rlbsS/view)
